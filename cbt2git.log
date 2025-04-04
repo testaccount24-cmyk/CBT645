@@ -1,0 +1,5 @@
+2025-04-04 13:13:34.683230 - Received CBT.V508.FILE645.PDS from FILE645.XMI 
+2025-04-04 13:13:34.683878 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE645.PDS, moved to PDS/$$$#DATE
+2025-04-04 13:13:34.684029 - Found $ILLUST.txt (text/plain) in CBT.V508.FILE645.PDS, moved to PDS/$ILLUST
+2025-04-04 13:13:34.684207 - Found $UPDATES.txt (text/plain) in CBT.V508.FILE645.PDS, moved to PDS/$UPDATES
+2025-04-04 13:13:34.684327 - Found @FILE645.txt (text/plain) in CBT.V508.FILE645.PDS, moved to PDS/@FILE645
